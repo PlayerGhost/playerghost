@@ -6,7 +6,7 @@
 <div>
 <a href="https://github.com/PlayerGhost">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PlayerGhost&show_icons=true&hide=issues&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PlayerGhost&layout=compact&hide=php&hide=c++&langs_count=10&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PlayerGhost&layout=compact&hide=php&langs_count=10&theme=radical"/>
 </div>
 
 Languages:
