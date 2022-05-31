@@ -3,7 +3,7 @@
 ### About me:
   Hi!👋 I'm a FullStack Developer Junior, currently studying Computer Science, aiming to graduate on 2023.
   
-![PlayerGhost Stats](https://github-readme-stats.vercel.app/api?username=ericut&show_icons=true&hide=issues,contribs&theme=radical)![PlayerGhost Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericut&layout=compact&hide=php&theme=radical)
+![PlayerGhost Stats](https://github-readme-stats.vercel.app/api?username=PlayerGhost&show_icons=true&hide=issues,contribs&theme=radical)![PlayerGhost Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PlayerGhost&layout=compact&hide=php&theme=radical)
 
 <div>
 <a href="https://github.com/PlayerGhost">
