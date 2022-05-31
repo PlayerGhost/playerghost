@@ -9,7 +9,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PlayerGhost&layout=compact&hide=php&langs_count=10&theme=radical"/>
 </div>
   
-### Skills
+### Skills:
 
 Languages:
 
