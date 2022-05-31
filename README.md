@@ -2,13 +2,11 @@
 
 ### About me:
   Hi!👋 I'm a FullStack Developer Junior, currently studying Computer Science, aiming to graduate on 2023.
-  
-![PlayerGhost Stats](https://github-readme-stats.vercel.app/api?username=PlayerGhost&show_icons=true&hide=issues,contribs&theme=radical)![PlayerGhost Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PlayerGhost&layout=compact&hide=php&theme=radical)
 
 <div>
 <a href="https://github.com/PlayerGhost">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PlayerGhost&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PlayerGhost&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PlayerGhost&show_icons=true&hide=issues&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PlayerGhost&layout=compact&hide=php&hide=c++&langs_count=10&theme=radical"/>
 </div>
 
 Languages:
