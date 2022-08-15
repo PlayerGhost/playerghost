@@ -25,8 +25,8 @@ Languages:
 
 Frameworks && Libraries && Tools:
 
-<!--![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-[![React Badge](https://img.shields.io/badge/-React-282c33?style=flat&logo=react&logoColor=61DAFB)](#)-->
+[![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+[![React Badge](https://img.shields.io/badge/-React-282c33?style=flat&logo=react&logoColor=61DAFB)](#)
 [![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)](#)
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)](#)
 [![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white)](#)
