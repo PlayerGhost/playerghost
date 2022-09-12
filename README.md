@@ -1,7 +1,7 @@
-## Ítalo Souza | FullStack Developer Junior 
+## Ítalo Souza | FullStack Developer 
 
 ### About me:
-  Hi!👋 I'm a FullStack Developer Junior, currently studying Computer Science, aiming to graduate on 2023.
+  Hi!👋 I'm a FullStack Developer, currently studying Computer Science, aiming to graduate on 2023.
 
 <div>
 <a href="https://github.com/PlayerGhost">
