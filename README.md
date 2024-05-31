@@ -1,11 +1,12 @@
-## Ítalo Souza | FullStack Developer 
+## Ítalo Souza | FullStack Developer
 
 ### About me:
-  Hi!👋 I'm a FullStack Developer and DevOps with a BSc in Computer Science.
+
+Hi!👋 I'm a FullStack Developer and DevOps with a BSc in Computer Science.
 
 <div>
 <a href="https://github.com/PlayerGhost">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PlayerGhost&show_icons=true&hide=issues&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-seven-nu-87.vercel.app/api?username=PlayerGhost&show_icons=true&hide=issues&theme=radical&include_all_commits=true"/>
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PlayerGhost&layout=compact&hide=php&langs_count=10&theme=radical"/> -->
 </div>
   
@@ -38,6 +39,7 @@ Frameworks && Libraries && Tools:
 [![Selenium](https://img.shields.io/badge/-Selenium-%43B02A?style=flat&logo=selenium&logoColor=white)](#)
 
 ### Personal Projects
+
 <img src="https://onprice.vercel.app/favicon.ico" width="50" height="50">
 
 [OnPrice](https://github.com/PlayerGhost/OnPrice-Presentation)
