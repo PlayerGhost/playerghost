@@ -48,9 +48,6 @@ I work across the full stack, from frontend interfaces to backend services, infr
 
 **AI & LLM**
 
-![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=flat&logo=openai&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=googlegemini&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![OpenClaw](https://img.shields.io/badge/OpenClaw-E74C3C?style=flat&logoColor=white)
 
